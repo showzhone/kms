@@ -1,7 +1,5 @@
 #! /bin/bash
 
-#One-key-kms script by Dakkidaze <gioku@docomo.net.cn>
-
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
 clear
